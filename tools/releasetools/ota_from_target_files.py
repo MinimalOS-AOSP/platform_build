@@ -128,7 +128,7 @@ OPTIONS.block_based = False
 OPTIONS.updater_binary = None
 OPTIONS.oem_source = None
 OPTIONS.fallback_to_full = True
-OPTIONS.backuptool = False
+OPTIONS.backuptool = True
 OPTIONS.full_radio = False
 OPTIONS.override_device = 'auto'
 
